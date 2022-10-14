@@ -1,2 +1,0 @@
-file 'DJI_0077_chunk_000.MP4'
-file 'DJI_0077_chunk_001.MP4'
