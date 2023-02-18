@@ -1,4 +1,4 @@
-# [Draft] Campanile Dataset Release
+# Campanile Dataset Release
 
 This repository contains the dataset release for the Netflix Technology Blog article [insert article title and link here]. In this blogpost, we re-rendered the [1997 Campanile Movie](https://www.pauldebevec.com/Campanile/) by applying the latest radiance field methods on newly captured drone videos. More specifically, we used the official codebase of [Instant-NGP](https://nvlabs.github.io/instant-ngp/), [Plenoxels](https://alexyu.net/plenoxels/) and [Mip-NeRF 360](https://github.com/google-research/multinerf), trained on drone footage, and rendered from the same camera trajectory of the original Campanile Movie.
 
